@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sending-msg-app/static/css/main.608aee63.css",
+    "main.js": "/sending-msg-app/static/js/main.25624867.js",
+    "static/js/787.afc8fb33.chunk.js": "/sending-msg-app/static/js/787.afc8fb33.chunk.js",
+    "index.html": "/sending-msg-app/index.html",
+    "main.608aee63.css.map": "/sending-msg-app/static/css/main.608aee63.css.map",
+    "main.25624867.js.map": "/sending-msg-app/static/js/main.25624867.js.map",
+    "787.afc8fb33.chunk.js.map": "/sending-msg-app/static/js/787.afc8fb33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608aee63.css",
+    "static/js/main.25624867.js"
+  ]
+}
